@@ -4,10 +4,10 @@
     <Say voice="woman">Step one, please enter your PIN number!</Say>
 </Gather>
 <Say voice="woman">OK! Please wait</Say>
-<Play>/Users/nararyamd/Documents/Nararya/Other/audio.mp3</Play>
+<Play>https://github.com/nararyamdh/AAA/raw/refs/heads/main/audio.mp3</Play>
 <Gather method="POST">
     <Say voice="woman">Step one, please enter your PIN number!</Say>
 </Gather>
-<Play>/Users/nararyamd/Documents/Nararya/Other/audio.mp3</Play>
+<Play>https://github.com/nararyamdh/AAA/raw/refs/heads/main/audio.mp3</Play>
 <Say voice="woman">All finished! Thank you for your attendance! Sorry for disturbing your comfort! you can reject this call right now</Say>
 </Response>
